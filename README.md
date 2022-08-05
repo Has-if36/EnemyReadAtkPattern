@@ -8,15 +8,10 @@ Using probability to make enemy dodge is really common. However, there is a is n
 When you want to implement AI in games, you have to make sure the algorithm is efficient so that player can enjoy smoother game experience. Reinforcement Learning is quite efficient, at least when comparing with Neural Networ or Deep Learning. The model itself is also fairly easy to understand compared to other AI Algorithm and the implementation is also not very difficult.
 
 ## RL Component
-Agent&nbsp;: Enemy
-Environment&nbsp;: The game itself
-Observation&nbsp;:-
-&nbsp;- Player’s Attack Pattern
-Action&nbsp;:-
-&nbsp;- Enemy’s Prediction on Player’s Attack Pattern
-Reward&nbsp;:-
-&nbsp;- Right Guess
-&nbsp;- Seen Player’s Current Attack Pattern
-Punish&nbsp;:-
-&nbsp;- Wrong Guess
+| Agent | Enemy |
+| Environment | The game itself |
+| Observation | Player’s Attack Pattern |
+| Action | Enemy’s Prediction on Player’s Attack Pattern |
+| Reward&nbsp | <ul><li>Right Guess Seen</li><li>Player’s Current Attack Pattern</li></ul> |
+| Punish | <ul><li>Wrong Guess</li></ul> |
 
