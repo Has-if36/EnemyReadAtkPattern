@@ -38,11 +38,13 @@ When you want to implement AI in games, you have to make sure the algorithm is e
   <br>Beating Enemy with RL
 </p>
 
-To beat it, you basically need to change your attack pattern. Having multiple enemy attacking the player can be a bit tricky to deal with.
-
-The current project has been implemented into [this game](https://ddxc.itch.io/cast-adrift)
-Plese do play the game and give me a feedback.
-[Whole Gameplay Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPrMlgVyMLtYsSZxoEeweOj6HHWeITi5zHHFQzjYldSUzDiQ/viewform?usp=sf_link)
+To beat it, you basically need to change your attack pattern. Having multiple enemy attacking the player can be a bit tricky to deal with.&nbsp;
+&nbsp;
+The current project has been implemented into [this game](https://ddxc.itch.io/cast-adrift). &nbsp;
+Plese do play the game and give me a feedback.&nbsp;
+&nbsp;
+[Whole Gameplay Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPrMlgVyMLtYsSZxoEeweOj6HHWeITi5zHHFQzjYldSUzDiQ/viewform?usp=sf_link)&nbsp;
 - The point of this survey is to some feedback about the game itself and the potential of this AI
-[Demo Survey](https://docs.google.com/forms/d/e/1FAIpQLSc3aiyv5_a9jXxK8tPbOusDVrYd_GJ9tMSrb-ueMoAthF1zlA/viewform?usp=sf_link)
+&nbsp;
+[Demo Survey](https://docs.google.com/forms/d/e/1FAIpQLSc3aiyv5_a9jXxK8tPbOusDVrYd_GJ9tMSrb-ueMoAthF1zlA/viewform?usp=sf_link)&nbsp;
 - The point of this survey is to some feedback about Player's experience in dealing enemy with Probability and Reinforcement Learning
