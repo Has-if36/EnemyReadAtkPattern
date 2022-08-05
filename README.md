@@ -17,3 +17,15 @@ When you want to implement AI in games, you have to make sure the algorithm is e
 | Reward&nbsp | <ul><li>Right Guess Seen</li><li>Player’s Current Attack Pattern</li></ul> |
 | Punishment | <ul><li>Wrong Guess</li></ul> |
 
+## Result
+### Probability VS Reinforcement Learning
+![Evade Prob](https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif)
+![Evade RL](https://user-images.githubusercontent.com/55189926/183035378-4975ea12-a976-485f-8bcd-8a1e8f8e0069.gif)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55189926/183035378-4975ea12-a976-485f-8bcd-8a1e8f8e0069.gif" />
+</p>
