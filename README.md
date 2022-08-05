@@ -19,18 +19,9 @@ When you want to implement AI in games, you have to make sure the algorithm is e
 
 ## Result
 ### Probability VS Reinforcement Learning
-<div align="center">
-<table>
-   <tr>
-    <th>Probability (50% Dodge Rate)</th>
-    <th>Reinforcement Learning</th>
-  </tr>
-  <tr>
-    <td> <img src="https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif" width="350"/> </td>
-    <td> <img src="https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif" width="350"/></td>
-  </tr>
-</table>
-</div>
+| Probability (50% Dodge Rate) | Reinforcement Learning |
+| ------------- | ------------- |
+| ![EvadeProb.gif](https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif) | ![EvadeRL.gif](https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif) |
 
 ### Beating Enemy with RL
 <p align="center">
