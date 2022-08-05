@@ -35,7 +35,7 @@ To beat it, you basically need to change your attack pattern. Having multiple en
 The current project has been implemented into [this game](https://ddxc.itch.io/cast-adrift). \
 Please do play the game and give me a feedback :D\
 
-### Survey
+### Surveys
 [Whole Gameplay Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPrMlgVyMLtYsSZxoEeweOj6HHWeITi5zHHFQzjYldSUzDiQ/viewform?usp=sf_link) \
 The point of this survey is to some feedback about the game itself and the potential of this AI \
 \
