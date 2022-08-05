@@ -26,8 +26,8 @@ When you want to implement AI in games, you have to make sure the algorithm is e
     <th>Reinforcement Learning</th>
   </tr>
   <tr>
-    <td> <img src="https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif" width="450"/> </td>
-    <td> <img src="https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif" width="450"/></td>
+    <td> <img src="https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif" width="350"/> </td>
+    <td> <img src="https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif" width="350"/></td>
   </tr>
 </table>
 </div>
