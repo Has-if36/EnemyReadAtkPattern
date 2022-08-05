@@ -20,10 +20,29 @@ When you want to implement AI in games, you have to make sure the algorithm is e
 ## Result
 ### Probability VS Reinforcement Learning
 <div align="center">
-Probability (50% Dodge Rate) |  Reinforcement Learning
-:-------------------------:|:-------------------------:
-![EvadeProb.gif](https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif)  |  ![EvadeRL.gif](https://user-images.githubusercontent.com/55189926/183035378-4975ea12-a976-485f-8bcd-8a1e8f8e0069.gif)
+<table>
+   <tr>
+    <th>Probability (50% Dodge Rate)</th>
+    <th>Reinforcement Learning</th>
+  </tr>
+  <tr>
+    <td> <img src="https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif" width="450"/> </td>
+    <td> <img src="https://user-images.githubusercontent.com/55189926/183035363-bce456f8-fb01-4121-9ea2-7be428e3334e.gif" width="450"/></td>
+  </tr>
+</table>
 </div>
-  
-### Beating Enemy with RL
 
+### Beating Enemy with RL
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55189926/183040957-6b352cac-7009-460d-90d1-0f3e330c6f3f.gif" width="600"/>
+  <br>Beating Enemy with RL
+</p>
+
+To beat it, you basically need to change your attack pattern. Having multiple enemy attacking the player can be a bit tricky to deal with.
+
+The current project has been implemented into [this game](https://ddxc.itch.io/cast-adrift)
+Plese do play the game and give me a feedback.
+[Whole Gameplay Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPrMlgVyMLtYsSZxoEeweOj6HHWeITi5zHHFQzjYldSUzDiQ/viewform?usp=sf_link)
+- The point of this survey is to some feedback about the game itself and the potential of this AI
+[Demo Survey](https://docs.google.com/forms/d/e/1FAIpQLSc3aiyv5_a9jXxK8tPbOusDVrYd_GJ9tMSrb-ueMoAthF1zlA/viewform?usp=sf_link)
+- The point of this survey is to some feedback about Player's experience in dealing enemy with Probability and Reinforcement Learning
