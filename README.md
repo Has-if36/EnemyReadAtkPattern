@@ -15,5 +15,5 @@ When you want to implement AI in games, you have to make sure the algorithm is e
 | Observation | Player’s Attack Pattern |
 | Action | Enemy’s Prediction on Player’s Attack Pattern |
 | Reward&nbsp | <ul><li>Right Guess Seen</li><li>Player’s Current Attack Pattern</li></ul> |
-| Punish | <ul><li>Wrong Guess</li></ul> |
+| Punishment | <ul><li>Wrong Guess</li></ul> |
 
