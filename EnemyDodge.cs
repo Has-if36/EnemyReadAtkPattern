@@ -256,15 +256,6 @@ public class EnemyDodge : MonoBehaviour
     {
         if (smartDodge)
         {
-            if (dodging)
-            {
-                totalScore = DODGE_REWARD;
-            }
-            else
-            {
-                totalScore = HIT_PENALTY;
-            }
-
             /*
              * Loop:
              * To read and validate array that has similar sequence.
@@ -277,6 +268,7 @@ public class EnemyDodge : MonoBehaviour
                 bool similarInSeq = true;
                 if (dodging)
                 {
+                    totalScore = DODGE_REWARD;
                     for (int j = 0; j < ap.currAttackChain; j++)
                     {
                         if (!AttackPattern.patternList[i, j].Equals(AttackPattern.patternList[predAct, j]))
@@ -298,6 +290,7 @@ public class EnemyDodge : MonoBehaviour
                 }
                 else
                 {
+                    totalScore = HIT_PENALTY;
                     // if (i == 0) Debug.Log("Wrong Guess");
                     for (int j = 0; j < ap.currAttackChain; j++)
                     {
